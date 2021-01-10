@@ -4,9 +4,12 @@ This simple Python application runs a driven version of Chrome to push your curr
 ## Features
 
  - Shows that you're browsing AnimeLab
+ 
  ![Now Playing](https://i.imgur.com/LLVbWIQ.png)
+ 
  ![Just browsing](https://i.imgur.com/1NNqPNA.png)
  - Displays what show you're watching and what episode
+ 
  ![What Show You're Watching](https://i.imgur.com/hDvxKj0.png)
 
 ## How To Use
